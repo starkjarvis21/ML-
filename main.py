@@ -4,6 +4,7 @@ import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
+import cv2
 
 sns.set_theme(style="darkgrid")
 
